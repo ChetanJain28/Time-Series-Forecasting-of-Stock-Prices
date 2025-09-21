@@ -1,4 +1,4 @@
-#Time-Series-Forecasting-of-Stock-Prices
+# Time-Series-Forecasting-of-Stock-Prices
 
 
 ![](Images/Intro.jpg)
