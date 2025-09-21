@@ -1,6 +1,4 @@
-# Forecasting of a Time Series (Stock Market) Data in R
-### *A Comparative Study by,* 
-
+#Time-Series-Forecasting-of-Stock-Prices
 
 
 ![](Images/Intro.jpg)
